@@ -3,10 +3,10 @@ A Django full-stack web application designed for interactive text-based quizzes.
 
 The web application is currently hosted online here: https://2890381p.pythonanywhere.com/
 
-[Requirements](#requirements)
-[Features](#features)
-[Usage](#usage)
-[Contact](#contact)
+- [Requirements](#requirements)
+- [Features](#features)
+- [Usage](#usage)
+- [Contact](#contact)
 
 
 ## Requirements
